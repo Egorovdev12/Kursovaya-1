@@ -1,0 +1,17 @@
+
+New client connected Connection: /127.0.0.1: 51870; TIME: Sat Nov 13 20:44:48 YEKT 2021
+Admin: Добро пожаловать в чат; TIME: Sat Nov 13 20:45:06 YEKT 2021
+New client connected Connection: /127.0.0.1: 49491; TIME: Sat Nov 13 20:45:40 YEKT 2021
+privet!!!; TIME: Sat Nov 13 20:45:44 YEKT 2021
+New client connected Connection: /127.0.0.1: 49492; TIME: Sat Nov 13 20:45:48 YEKT 2021
+Privetuki!!!; TIME: Sat Nov 13 20:46:00 YEKT 2021
+Admin: Оно работает; TIME: Sat Nov 13 20:46:06 YEKT 2021
+Client Connection: /127.0.0.1: 51870 disconnected; TIME: Sat Nov 13 20:46:11 YEKT 2021
+Класс; TIME: Sat Nov 13 20:46:16 YEKT 2021
+Супер; TIME: Sat Nov 13 20:46:21 YEKT 2021
+null; TIME: Sat Nov 13 20:46:23 YEKT 2021
+null; TIME: Sat Nov 13 20:46:23 YEKT 2021
+Client Connection: /127.0.0.1: 49491 disconnected; TIME: Sat Nov 13 20:46:23 YEKT 2021
+null; TIME: Sat Nov 13 20:46:24 YEKT 2021
+null; TIME: Sat Nov 13 20:46:24 YEKT 2021
+Client Connection: /127.0.0.1: 49492 disconnected; TIME: Sat Nov 13 20:46:24 YEKT 2021
